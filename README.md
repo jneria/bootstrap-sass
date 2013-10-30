@@ -7,10 +7,10 @@ This is a fork of [Bootstrap for Sass](https://github.com/thomas-mcdonald/bootst
 Please see WARD PENNEY's [article](http://pivotallabs.com/sass-with-bootstrap/) for more information on how this is supposed to work.
 but basically you should be able to navigate to your "vendors" folder then clone this project there.  Note compared to the folder structure on Ward Penneys site, there is no _bootstrap-responsive.scss in this folder.  That's because this is based on bootstrap 3 and bootstrap 3 is responive by default.  
 
-```ruby
+<!-- ```ruby
 gem 'sass-rails', '>= 3.2' # sass-rails needs to be higher than 3.2
 gem 'bootstrap-sass', '~> 3.0.0.0.rc'
-```
+``` -->
 
 ## Credits
 
