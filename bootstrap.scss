@@ -13,8 +13,8 @@
 @import "bootstrap/mixins";
 
 // Reset
-@import "bootstrap/normalize";
-@import "bootstrap/print";
+// @import "bootstrap/normalize";
+// @import "bootstrap/print";
 
 // Core CSS
 @import "bootstrap/scaffolding";
@@ -49,11 +49,11 @@
 @import "bootstrap/close";
 
 // Components w/ JavaScript
-@import "bootstrap/modals";
-@import "bootstrap/tooltip";
-@import "bootstrap/popovers";
-@import "bootstrap/carousel";
+// @import "bootstrap/modals";
+// @import "bootstrap/tooltip";
+// @import "bootstrap/popovers";
+// @import "bootstrap/carousel";
 
-// Utility classes
-@import "bootstrap/utilities";
-@import "bootstrap/responsive-utilities";
+// // Utility classes
+// @import "bootstrap/utilities";
+// @import "bootstrap/responsive-utilities";
