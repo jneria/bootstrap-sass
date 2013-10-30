@@ -12,6 +12,7 @@ gem 'sass-rails', '>= 3.2' # sass-rails needs to be higher than 3.2
 gem 'bootstrap-sass', '~> 3.0.0.0.rc'
 ``` -->
 
+Note, much of the features in bootstrap.scss file are commented out, you should chek this and comment and uncomment as you wish.
 ## Credits
 
 bootstrap-sass has a number of major contributors:
